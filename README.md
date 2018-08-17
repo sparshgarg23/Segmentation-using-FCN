@@ -10,3 +10,6 @@ Scipy
 Note that due to unavailabilty of GPU full visualisation of the results couldn't be performed.
 Also we need the Kitti Road Dataset which can be found at this link http://www.cvlibs.net/download.php?file=data_road.zip
 then extract the dataset into the data folder.
+Team Member Contributions:
+My  contribution:Use VGG Layer and convert it into an Fully Convolutional Network
+Code for training and data processing was provided to us in class.
